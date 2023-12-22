@@ -1,5 +1,5 @@
 import { type Server, type Socket } from 'socket.io'
-import { sendNotification, subscriptions } from '../services/webpush.service'
+import { sendNotification, subscriptions } from './webpush.service'
 
 const handleSocketConnection = (io: Server) => {
   io.on('connection', (socket: Socket) => {

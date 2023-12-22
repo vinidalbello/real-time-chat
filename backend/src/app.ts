@@ -3,7 +3,7 @@ import cors from 'cors';
 import { createServer } from 'http';
 import { Server } from 'socket.io';
 import router from './routes/routes';
-import handleSocketConnection from './controllers/socketController';
+import handleSocketConnection from './services/socket.service';
 
 const app = express();
 const httpServer = createServer(app);

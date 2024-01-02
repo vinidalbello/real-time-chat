@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Chá de Revelação | Operação Rejeitada</title>
+  <title>Real Time Chat | Option Rejected</title>
 </svelte:head>
 
 <div class="flex flex-col items-center justify-center h-screen bg-lightGray">

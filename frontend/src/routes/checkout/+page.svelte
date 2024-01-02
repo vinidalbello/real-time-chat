@@ -29,7 +29,7 @@
 </script>
 
 <svelte:head>
-  <title>Chá de Revelação | Checkout</title>
+  <title>Real Time Chat | Checkout</title>
 </svelte:head>
 
 <div class="flex justify-center items-center h-screen bg-lightGray">

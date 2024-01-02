@@ -74,7 +74,7 @@
 </script>
 
 <svelte:head>
-  <title>Chá de Revelação | Chat</title>
+  <title>Real Time | Chat</title>
 </svelte:head>
 
 <div class="h-screen w-screen bg-darkGray">
@@ -82,7 +82,7 @@
     <header
       class="px-6 py-4 border-b border-zinc-800 bg-darkGreen text-white shrink-0 flex items-center justify-between"
     >
-      <span class="font-bold text-xl">Chá de Revelação</span>
+      <span class="font-bold text-xl">Real Time Chat</span>
       <span>{username}</span>
     </header>
 
